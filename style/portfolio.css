@@ -123,3 +123,27 @@ main {
   font-weight: 400;
   font-size: 16px;
 }
+/* Resume styles */
+.resume-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.resume-title {
+  font-weight: 700;
+  font-size: 30px;
+}
+.resume-sub-tittle {
+  font-weight: 700;
+  font-size: 25px;
+}
+.passing-year {
+  font-weight: 600;
+  font-size: 20px;
+  color: #757575;
+}
+
+.resume-btn {
+  margin: 50px;
+  text-align: center;
+}
